@@ -37,6 +37,6 @@ public class Consumer {
         System.out.println(hello); //   
   
         // System.out.println(demoService.hehe());  
-        System.in.read();  
+        System.in.read();
     }  
 }
